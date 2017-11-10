@@ -1,5 +1,11 @@
 # Relevance-Score-Computation
 
+This is a program of an IT scientist who wishes to testify his / her paper at a scientific conference. The conference is divided into more specific sessions. Each session has a distinct theme, which is illustrated by both the general title of the session and the individual thematic objects that describe in particular scientific objects that will be presented in the session.
+
+A scientist who wants to submit a paper to the conference will be asked to choose one of the sessions that is based on the subject of his / her paper.
+
+The program reads as input keywords describing the subject of the paper and prints in descending order the most relevant sessions together with the corresponding relative score.
+
 ## **Examples:**
 * **?- query(['rule exceptions']).**
 ```
